@@ -56,9 +56,6 @@ Random Forest outperformed other models and was chosen for deployment due to its
 
 ---
 
-## 📁 Folder Structure
-
-📂 Machine-Failure-Prediction ├── 📁 data/ # Raw and cleaned datasets ├── 📁 notebooks/ # Jupyter notebooks for analysis ├── 📁 models/ # Saved model files ├── 📄 README.md # This file └── 📄 requirements.txt # Python dependencies
 # 🚀 How to Run
 
 1. Clone the repository  
